@@ -25,11 +25,6 @@ shinyUI(
                             )
                    ), # end of "Bicycle availability" tab panel
                    
-                   tabPanel("Explore dataset",
-                            h4("This page let you to explore dataset through a grid, a graph, and even a map view."),
-                            htmlOutput("datosabiertos")
-                   ), # end of "Explore dataset" tab panel
-                   
                    tabPanel("About",
                             mainPanel(
                               includeMarkdown("about.md")
