@@ -1,7 +1,6 @@
 library(shiny)
 library(leaflet)
 
-
 # Load dataset from a real source
 est <- read.csv(url("http://datosabiertos.malaga.eu/recursos/transporte/EMT/estacionamientos/Estacionamientos.csv"))
 
