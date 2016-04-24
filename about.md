@@ -6,6 +6,7 @@ output: html_document
 runtime: shiny
 ---
 
+
 ## Malaga available bikes locator
 
 This Shiny application is for consulting the availability of bikes in the [bike sharing system of Malaga City](http://malagabici.malaga.eu/webpublica/index.html). 
