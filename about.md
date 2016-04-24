@@ -14,7 +14,9 @@ The dataset comes from the [open data portal] (http://datosabiertos.malaga.eu) o
 
 Dataset: [http://datosabiertos.malaga.eu/recursos/transporte/EMT/estacionamientos/Estacionamientos.csv](http://datosabiertos.malaga.eu/recursos/transporte/EMT/estacionamientos/Estacionamientos.csv)
 
-This project can be reached running in: https://goyo.shinyapps.io/MalagaBikes/
+This project can be reached running in: https://goyo.shinyapps.io/MalagaBikes
+
+The github repository: https://github.com/goyoac/malagabike
 
 And there is a small presentation: http://rpubs.com/goyo/malagabikes
 
